@@ -1,6 +1,6 @@
-package Base;
+package base;
 
-import Utility.TestUtil;
+import utility.TestUtil;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.io.FileInputStream;

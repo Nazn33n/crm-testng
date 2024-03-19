@@ -1,14 +1,12 @@
-package Tests;
+package tests;
 
-import Base.TestBase;
-import Pages.DashboardPage;
-import Pages.LoginPage;
+import base.TestBase;
+import pages.DashboardPage;
+import pages.LoginPage;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
-import static Base.TestBase.*;
 
 public class DashboardPageTestCases extends TestBase {
 

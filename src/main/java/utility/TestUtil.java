@@ -1,6 +1,6 @@
-package Utility;
+package utility;
 
-import Base.TestBase;
+import base.TestBase;
 
 public class TestUtil extends TestBase {
 
